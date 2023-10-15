@@ -1,11 +1,11 @@
 # Hi there, I'm [Chayan Surana]! 👋
 
 ## 🚀 About Me
-I'm a passionate and creative aspiring developer who loves building projects that impact people's lives. My interest lies in developing scalable products and contributing to open-source projects.
+I'm a passionate and creative aspiring developer who loves building projects that impact people's lives. My interest lies in developing scalable products and contributing to open-source projects.                                                            
 
 ## 🛠️ Technologies and Tools
 - 💻 Languages:
-    - ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+    - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white)
     - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
     - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
     - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
