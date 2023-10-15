@@ -21,7 +21,7 @@ I'm a passionate and creative aspiring developer who loves building projects tha
 2. [Multi Step Form - React](https://github.com/chayansurana3/P10-Multi-Step-Form) - It is a React.js based multi level form template that can be used to make different kind of forms for different use cases.
 
 ## 🌱 Currently Learning
-I'm currently focused on mastering problem solving using DSA and brushin up my web development skills. I am also interested in learning and exploring about cloud technologies more.
+I'm currently dedicated to mastering problem-solving through Data Structures and Algorithms while enhancing my web development skills. Additionally, I'm keen on delving deeper into cloud technologies and increasing my contributions to open-source projects.
 
 ## 📫 How to Reach Me
 - 📧 Email: [chayan.surana3@gmail.com]
