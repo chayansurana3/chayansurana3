@@ -14,7 +14,9 @@ I'm a passionate and creative aspiring developer who loves building projects tha
 - 🧰 **Frameworks and Libraries:** 
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
-
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white">
+  
 ## 🔥 Featured Projects
 1. [FITIFY - Fitness Tracker](https://github.com/chayansurana3/FITIFY-Fitness-Tracker) - FITIFY is a fitness tracking website built using HTML, CSS, Javascript, Node.js, Express. It provides various features for calculating, tracking and managing your fitness-related information. It is designed to help you in your fitness journey by providing powerful tools to track your progress.
 2. [Multi Step Form - React](https://github.com/chayansurana3/P10-Multi-Step-Form) - It is a React.js based multi level form template that can be used to make different kind of forms for different use cases.
