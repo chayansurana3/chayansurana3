@@ -1,4 +1,4 @@
-# Hi there, I'm [Chayan Surana](#how-to-reach-me)! 👋
+# Hi there, I'm Chayan Surana! 👋
 
 ## 🚀 About Me
 I'm a passionate and creative aspiring developer who loves building projects that impact people's lives. My interest lies in developing scalable products and contributing to open-source projects.                                                            
