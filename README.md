@@ -20,6 +20,7 @@ I'm a passionate and creative aspiring developer who loves building projects tha
 ## 🔥 Featured Projects
 1. [FITIFY - Fitness Tracker](https://github.com/chayansurana3/FITIFY-Fitness-Tracker) - FITIFY is a fitness tracking website built using HTML, CSS, Javascript, Node.js, Express. It provides various features for calculating, tracking and managing your fitness-related information. It is designed to help you in your fitness journey by providing powerful tools to track your progress.
 2. [Multi Step Form - React](https://github.com/chayansurana3/P10-Multi-Step-Form) - It is a React.js based multi level form template that can be used to make different kind of forms for different use cases.
+3. [Employee Management System](https://github.com/chayansurana3/Employee-Analytics.git) - It is a comprehensive web application built using ReactJS and NodeJS. This application empowers users to efficiently manage company employee data with a user-friendly interface, offering seamless CRUD functionality for employee records, data visualization through charts, and informative cards for individual employee data display.
 
  ## 📚 My Coding Profile
 - LeetCode: [chayansurana3](https://leetcode.com/chayansurana3/)
@@ -29,6 +30,7 @@ I'm a passionate and creative aspiring developer who loves building projects tha
 I'm currently dedicated to mastering problem-solving through Data Structures and Algorithms while enhancing my web development skills. Additionally, I'm keen on delving deeper into cloud technologies and increasing my contributions to open-source projects.
 
 ## 📫 How to Reach Me
+- 🌐 Website: [https://chayansurana.netlify.app/]
 - 📧 Email: [chayan.surana3@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/chayan-surana/]
 - 🐦 Twitter: [https://twitter.com/chayan_surana_]
