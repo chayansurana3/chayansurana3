@@ -31,7 +31,8 @@ I'm a passionate and creative aspiring developer who loves building projects tha
 
  ## 📚 My Coding Profile
 - LeetCode: [chayansurana3](https://leetcode.com/chayansurana3/)
-- Codeforces: [chayan.surana3](https://codeforces.com/profile/chayan.surana3)
+- CodeForces: [chayan.surana3](https://codeforces.com/profile/chayan.surana3)
+- CodeChef: [chayan_surana](https://www.codechef.com/users/chayan_surana)
 
 ## 🌱 Currently Learning
 I'm currently dedicated to mastering problem-solving through Data Structures and Algorithms while enhancing my web development skills. Additionally, I'm keen on delving deeper into cloud technologies and increasing my contributions to open-source projects.
