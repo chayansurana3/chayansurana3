@@ -23,7 +23,7 @@ I'm a passionate and creative aspiring developer who loves building projects tha
 - ☁️ **Cloud Platforms:**
   <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
 
-- 🛠️ **Tools:**  
+- 🛠️ **Tools:**
   <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white">
   <img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
