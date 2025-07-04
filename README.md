@@ -1,7 +1,7 @@
 # Hi there, I'm Chayan Surana! 👋
 
 ## 🚀 About Me
-I'm a passionate and creative aspiring developer who loves building projects that impact people's lives. My interest lies in developing scalable products and contributing to open-source projects.                                                            
+I'm a passionate and creative software developer who enjoys building reliable and scalable applications. I focus on writing clean, efficient code and creating solutions that are both useful and easy to maintain. My goal is to develop software that makes a real difference in users’ lives.
 
 ## 🛠️ Technologies and Tools
 - 💻 **Languages:** 
